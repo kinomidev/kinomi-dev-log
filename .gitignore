@@ -1,0 +1,11 @@
+# 公開しない機密ファイル（~/dev_personal/CLAUDE.md の「セキュリティと Git の規約」）
+.env*
+*.pem
+*.key
+*.p8
+*.p12
+id_rsa*
+id_ed25519*
+credentials.json
+token.json
+.DS_Store
